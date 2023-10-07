@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    background-color: lightgrey;
+    padding: 50px 0;
+}
+
+.box {
+    height: auto;
+    background-color: lightblue;
+    padding: 23px 25px 15px;
+}
+#main .box img {
+    width: 100%;
+
+}
+
+#acc{
+    padding: 100px 0;
+}
+
+#carousel {
+    padding: 100px o;
+}
+
+#carousel .carousel-control-next-icon{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/21/21122.png);
+}
+
+#carousel .carousel-control-prev-icon {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/6708/6708193.png);
+}
+
+#moda .btn-primary{
+   background-image: url(./images/Relay.jpg);
+    margin-top: 50px;
+   
+}
+
+.modal-content{
+    background-image: url(./images/JShine.jpg);
+}
+
+.btn-next{
+    background-color: lightgray;
+}
+
+
